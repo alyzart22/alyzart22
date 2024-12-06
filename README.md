@@ -1,7 +1,7 @@
 # 💻🦠 Ali Zárate | Artificial Intelligence, **Bioinformatics** & Viruses   
 
 Welcome to my digital lab! 🧪 I'm Ali Zárate, a passionate explorer at the intersection of algorithms and biology. 🚀 I specialize in **artificial intelligence**, **bioinformatics**, and the tiny biological hackers we call **viruses**. 🧬✨  
-![Video Header]([https://ruta-a-tu-gif.gif](https://wikcreative.com/video/consola.mp4))
+![Video Header]([https://wikcreative.com/video/consola.mp4])
 ---
 
 ## 🌌 About Me  
