@@ -7,8 +7,9 @@ Welcome to my digital lab! 🧪 I'm Ali Zárate, a passionate explorer at the in
 </a>
 </div>
 <div>
+  br
 </div>
----
+
 ## 🌌 About Me  
 - 🤖 **AI in my DNA** | Deep Learning.  
 - 🔬 **Bioinformatics with purpose** | Decoding sequences to understand the biological world.  
