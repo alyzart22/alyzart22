@@ -3,7 +3,7 @@
 Welcome to my digital lab! 🧪 I'm Ali Zárate, a passionate explorer at the intersection of algorithms and biology. 🚀 I specialize in **artificial intelligence**, **bioinformatics**, and the tiny biological hackers we call **viruses**. 🧬✨  
 <div align="center">
 <a target="_blank" align="center"> 
-  <img align="right" height="340" width="1200" alt="GIF" src="Console.gif">
+  <img align="right" height="250" width="1000" alt="GIF" src="Console.gif">
 </a>
 </div>
 ---
