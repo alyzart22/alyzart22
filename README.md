@@ -7,7 +7,7 @@ Welcome to my digital lab! 🧪 I'm Ali Zárate, a passionate explorer at the in
 </a>
 </div>
 <div>
- <br>
+ -
 </div>
 
 ## 🌌 About Me  
