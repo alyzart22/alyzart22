@@ -6,7 +6,8 @@ Welcome to my digital lab! 🧪 I'm Ali Zárate, a passionate explorer at the in
   <img align="right" height="350" width="1100" alt="GIF" src="Console.gif">
 </a>
 </div>
-
+<div>
+</div>
 ---
 ## 🌌 About Me  
 - 🤖 **AI in my DNA** | Deep Learning.  
